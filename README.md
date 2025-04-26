@@ -7,7 +7,7 @@ A smart web application for optimizing rainwater harvesting systems in Malaysia,
 - **Smart Rainwater Capture Calculator**
   - Calculate potential rainwater collection based on roof size and location
   - Uses historical and predicted rainfall data
-  - Real-time weather integration
+ 
 
 - **ROI Estimator**
   - Calculate potential water bill savings
